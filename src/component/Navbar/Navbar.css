@@ -1,0 +1,76 @@
+.nav{
+
+    width: 100%;
+    top: 0;
+    right: 0;
+   
+ 
+ background-color:rgba(255, 0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    transition: all .50s ease;
+    height: 90px;
+
+}
+
+
+
+.logo {
+    
+    height: auto;
+color:#87CEFA;
+    font-family:'Leckerli One', cursive; 
+    font-size: 2.5rem;
+    margin-left: 60px;
+  
+    
+}
+.navbar{
+    display:flex ;
+}
+.navbar a{
+    color: black;
+    font-size: 28px;
+    font-weight: 5000;
+    margin: 0 40px;
+    transition: all .50s ease;
+}
+.navbar a:hover{
+    color:#87CEFA;
+} 
+.h-icon{
+    display: flex;
+    align-items: center;
+
+}
+.h-icon a {
+    margin: 20px 30px;
+}
+
+.btnlog{
+    box-shadow: 5px 10px 20px 0px  #87cefa37;
+    border:rgba(245, 245, 220, 0.381) 1px solid;
+    border-radius: 50px;
+    color:black;
+   
+    width: 120px;
+    height: 42px;
+    
+    
+
+margin: 10px;
+    
+    text-align: center;
+    font-size: 20px;
+  
+    background-color:#ffffff ;
+}
+button a{
+    color:black;
+
+
+}
+
+

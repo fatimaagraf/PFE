@@ -1,0 +1,73 @@
+table{
+    background-color:white;
+    border-radius: 40px;
+    border-collapse:collapse;
+    box-shadow: 0 5px 10px 0 rgba(126, 138, 140, 0.465);
+    text-align:left;
+    overflow: hidden;
+    padding: 50px;
+    margin-left: 15px;
+    width: 99%;
+
+}
+thead{
+    background-color: rgba(205, 243, 255, 0.164);
+    box-shadow: 0 5px 10px 0 rgba(115, 136, 137, 0.465);
+    height:100px;
+    
+}
+
+thead th {
+padding:10px 20px ;
+text-transform: uppercase;
+letter-spacing: 0.1rem;
+font-size: 0.7rem;
+font-weight:900 ;
+color: rgb(111, 137, 150);
+
+
+}
+tr{
+    box-shadow: 0 5px 10px 0 rgba(137, 147, 147, 0.116);   
+}
+td { padding: 10px 25px;}
+td img{
+    width: 90px;
+    height: 90px;
+}
+.view {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    border: 0.5px solid rgba(245, 231, 33, 0.581);
+
+}
+.view a {color:rgb(194, 181, 39) ;}
+.deletb{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.645);
+    color: rgb(255, 83, 83);
+    border: 0.5px solid rgba(253, 98, 98, 0.68);
+    width: 100px;
+}
+.edit{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    
+    border: 0.5px solid rgba(83, 253, 114, 0.533);
+    width: 100px;
+}
+.edit a{color: rgb(67, 114, 51);}
+
+.deletb a{color: rgb(255, 255, 255);}
+
+.add{ width: 200px;
+    border-radius: 10px;
+    background-color: rgb(255, 248, 248);
+   
+    border: 0.5px solid rgba(83, 202, 253, 0.583);  
+    padding: 22px 10px 30px 10px;
+margin-left: 100px;
+}
+.add a{color: rgb(48, 128, 159);    text-align: center;  
+;}

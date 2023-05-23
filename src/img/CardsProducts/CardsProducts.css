@@ -1,0 +1,82 @@
+@import url('https://fonts.cdnfonts.com/css/apple-chancery');
+.produit{
+    display: flex;
+    width: 100%;
+}
+
+
+.filterp{
+
+    width: 25%;
+}
+.ourp{
+
+width: 75%;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.ourp .titre{
+    font-family: 'Apple Chancery', sans-serif;
+                                                
+    font-size: 40px;
+    margin-left: 30rem;
+   color: rgb(67, 65, 65);
+}
+.cardp{
+
+    border:none;
+    box-shadow: 5px 15px 20px 0px  #3248284e ;
+border-radius: 30px;
+    width:25%;
+    height: 350px;
+    margin:60px 30px;
+    padding: 10px;
+   
+}
+.card{
+   
+    
+    margin-left: 50px;
+ display: flex;
+    flex-wrap:wrap;
+}
+.imagec{
+height: 180px;
+    width:90%;
+    margin-left: 15px;
+  
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+h2{
+    font-size: 25px;
+    font-weight: 5000;
+}
+.iconbtn{
+    display: flex;
+}
+.icItem{
+  font-size:20px;
+  margin-left: 10px;
+  
+ 
+}
+.ic{display: flex;
+margin-left:60px;
+margin-right: 10px;}
+
+
+.titel{
+    font-family: cursive; 
+    font-size: 1.5rem;
+    line-height: 20px;
+    margin-bottom: 6px;
+    margin-left: 15px;
+   
+}
+.price{
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    
+}

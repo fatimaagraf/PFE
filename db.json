@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "id": 3,
+      "title": "Fjallraven3 ",
+      "image": "./image/11.png",
+      "type": "hhh",
+      "descripsion": "iuyukjhghgtyhjygh",
+      "price": "987456",
+      "occasion": "bird",
+      "color": "pink"
+    },
+    {
+      "id": 4,
+      "title": "Fjallraven ",
+      "image": "./image/1.png",
+      "type": "mmmmm",
+      "descripsion": "lpok",
+      "price": "njki",
+      "occasion": "nnjm",
+      "color": "nmjnkkkk"
+    },
+    {
+      "id": 5,
+      "title": "Fjallraven ",
+      "image": "./image/2.png",
+      "type": "mnkjo",
+      "descripsion": "njikm",
+      "price": "nmjjmmj",
+      "occasion": "nn",
+      "color": " nnn"
+    },
+    {
+      "id": 6,
+      "title": "Fjallraven ",
+      "image": "./image/3.png",
+      "type": "nbn",
+      "descripsion": "nnnnn",
+      "price": "nnnnn",
+      "occasion": "nnnnn",
+      "color": "kj"
+    },
+    {
+      "id": 7,
+      "title": "Fjallraven2 ",
+      "image": "./image/4.png",
+      "type": "flower",
+      "descripsion": "gfdfjhfghjkjhgxfghjklkjhgfdfghjklkjhgffghjk",
+      "price": "200",
+      "occasion": "kjh",
+      "color": "ggt"
+    },
+    {
+      "id": 8,
+      "title": "Fjallraven2 ",
+      "image": "./image/12.png",
+      "type": "flower",
+      "descripsion": "gfdfjhfghjkjhgxfghjklkjhgfdfghjklkjhgffghjk",
+      "price": "200",
+      "occasion": "lkj",
+      "color": "ggt"
+    }
+  ]
+}

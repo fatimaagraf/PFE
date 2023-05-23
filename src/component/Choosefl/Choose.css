@@ -1,0 +1,34 @@
+
+h1{
+text-align: center;
+
+font-size: 50px;;
+
+
+font-family:'Leckerli One', cursive;
+margin-bottom: 80px; 
+margin-top: 80px;
+}
+.why{
+    display: flex;
+    text-align: center;
+    margin-left: 80px;
+}
+.why div{
+    /*box-shadow: 0 8px 5px 0px  #ffcaaf56 ;*/
+    box-shadow: 5px 10px 20px 0px  #a9ddff55;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 10px;
+    width: 24%;
+    height: 250px;
+}
+.why div h2{
+margin-top: 10px;
+color:#87CEFA;
+ font-family:'Leckerli One';
+font-weight: 28px;
+margin-bottom: 30px;
+
+}
+

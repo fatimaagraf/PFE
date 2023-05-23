@@ -1,0 +1,61 @@
+
+ .text-center{
+    text-align: center;
+    font-size: 39px;
+    align-items: center;
+}
+.main{
+    width:100%;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+
+background-size:cover;
+background-position:center;
+border: solid;
+}
+.main{
+  
+    font-size: 1.4em;
+    font-weight: 500;
+   margin-top: -109px;
+   display: flex;
+   border-right-style: #e04c4c;
+}
+
+.items_img  {
+   
+margin-right: 20rem;
+margin-top: -36rem;
+text-align: center;
+
+}
+.details  {
+    margin-left: 49rem;
+    margin-top: -26rem;
+  color: black;
+  text-align: center;
+}
+ 
+ 
+
+
+
+@media (max-width:751px) {
+   img{
+    height: 200px;  
+    width: 190px;
+    margin-right: 40%;
+   }
+    .details  {
+        margin-right: 210px;
+        margin-top: -49%;
+      color: black;
+        
+    }
+     
+    
+    
+    
+}
+ 

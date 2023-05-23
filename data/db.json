@@ -1,0 +1,209 @@
+{
+  "user": [
+    {
+      "name": "fatima",
+      "email": "fatima@gmail.com",
+      "password": "12121212",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "titel": "poiinn jhj",
+      "type": "boy",
+      "image": "./image/1.jpeg",
+      "descripsion": "dddddddddddddddddd",
+      "price": 123,
+      "color": "red",
+      "sex": "femel",
+      "qnty": 0,
+      "id": 8
+    },
+    {
+      "id": 19,
+      "title": "nbjuhy bggy ",
+      "image": "./image/2.jpeg",
+      "type": "boy",
+      "descripsion": "gfdfjhfghjkjhgxfg",
+      "price": 896,
+      "sex": "femel",
+      "color": "red",
+      "qnty": 0
+    },
+    {
+      "id": 10,
+      "title": "pouub ",
+      "image": "./image/3.jpeg",
+      "type": "girl",
+      "descripsion": "gfdfjhfghjkjhgxfghjklkjhhjk",
+      "price": 360,
+      "sex": "femel",
+      "color": "ggt",
+      "qnty": 0
+    },
+    {
+      "titel": "",
+      "type": "girl",
+      "image": "./image/4.jpeg",
+      "descripsion": "",
+      "price": 30,
+      "color": "",
+      "sex": "femel",
+      "id": 20,
+      "qnty": 0
+    },
+    {
+      "titel": "jjjkkkkkkkkk",
+      "type": "boy",
+      "image": "./image/5.jpeg",
+      "descripsion": "kklol",
+      "price": 78,
+      "color": ",mm,",
+      "sex": "femel",
+      "id": 21,
+      "qnty": 0
+    },
+    {
+      "titel": "hbjk",
+      "type": "baby",
+      "image": "./image/6.jpeg",
+      "descripsion": "iuhi7u",
+      "price": 98,
+      "sex": "femel",
+      "color": "kjh",
+      "id": 22,
+      "qnty": 0
+    },
+    {
+      "titel": "dkdkdkkk",
+      "type": "baby",
+      "image": "./image/7.jpeg",
+      "descripsion": "",
+      "sex": "femel",
+      "price": 30,
+      "color": "",
+      "id": 23,
+      "qnty": 0
+    },
+    {
+      "titel": "hbjk",
+      "type": "boy",
+      "image": "./image/8.jpeg",
+      "descripsion": "iuhi7u",
+      "price": 56,
+      "sex": "femel",
+      "color": "kjh",
+      "id": 24,
+      "qnty": 0
+    },
+    {
+      "titel": "dkdkdkkk",
+      "type": "boy",
+      "image": "./image/9.jpeg",
+      "descripsion": "",
+      "sex": "femel",
+      "price": 100,
+      "color": "",
+      "id": 25,
+      "qnty": 0
+    },
+    {
+      "titel": "hbjk",
+      "type": "girl",
+      "image": "./image/10.jpeg",
+      "descripsion": "iuhi7u",
+      "price": 80,
+      "sex": "femel",
+      "color": "kjh",
+      "id": 26,
+      "qnty": 0
+    },
+    {
+      "titel": "dkdkdkkk",
+      "type": "boy",
+      "image": "./image/11.jpeg",
+      "descripsion": "",
+      "sex": "femel",
+      "price": 20,
+      "color": "",
+      "id": 27,
+      "qnty": 0
+    },
+    {
+      "titel": "hbjk",
+      "type": "boy",
+      "image": "./image/12.jpeg",
+      "descripsion": "iuhi7u",
+      "price": 10,
+      "sex": "femel",
+      "color": "kjh",
+      "id": 28,
+      "qnty": 0
+    },
+    {
+      "titel": "dkdkdkkk",
+      "type": "boy",
+      "image": "./image/13.jpeg",
+      "descripsion": "",
+      "sex": "femel",
+      "price": 100,
+      "color": "",
+      "id": 29,
+      "qnty": 0
+    },
+    {
+      "titel": "hbjk",
+      "type": "boy",
+      "image": "./image/14.jpeg",
+      "descripsion": "iuhi7u",
+      "price": 522,
+      "sex": "femel",
+      "color": "kjh",
+      "id": 30,
+      "qnty": 0
+    },
+    {
+      "titel": "dkdkdkkk",
+      "type": "boy",
+      "image": "./image/15.jpeg",
+      "descripsion": "",
+      "sex": "femel",
+      "price": 90,
+      "color": "",
+      "id": 31,
+      "qnty": 0
+    },
+    {
+      "titel": "",
+      "type": "boy",
+      "image": "./image/16.jpeg",
+      "qnty": "",
+      "descripsion": "",
+      "price": 60,
+      "color": "",
+      "sexe": "",
+      "id": 32
+    },
+    {
+      "titel": "",
+      "type": "boy",
+      "image": "./image/17.jpeg",
+      "descripsion": "",
+      "price": 10,
+      "qnty": "",
+      "color": "",
+      "id": 33
+    },
+    {
+      "titel": "",
+      "type": "boy",
+      "image": "./image/18.jpeg",
+      "qnty": "",
+      "descripsion": "",
+      "price": 50,
+      "color": "",
+      "sexe": "",
+      "id": 34
+    }
+  ]
+}
